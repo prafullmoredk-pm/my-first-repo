@@ -1,5 +1,4 @@
-# My Git Odyssey: From "dquote>" to GitHub Pro 🚀
-
+# My Git Odyssey: THE MAC VERSION 💻
 This isn't just a code repository; it's a log of how I conquered the command line.
 
 ## 📖 The Story of This Exercise
@@ -44,7 +43,7 @@ This is the routine I now follow to keep my code safe:
 * **Main**: The official project timeline.
 * **Origin**: The nickname for my GitHub repository link.
 
-------------------------------------------------------------------------
+
 
 
 Git & GitHub Mastery Summary
