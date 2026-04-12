@@ -1,4 +1,4 @@
-# My Git Odyssey: THE MAC VERSION 💻
+# My Git Odyssey: Combined & Conquered 💻☁️
 This isn't just a code repository; it's a log of how I conquered the command line.
 
 ## 📖 The Story of This Exercise
