@@ -30,6 +30,8 @@ I intentionally broke my project to learn how to fix it.
 * **The Conflict:** I edited the same line on GitHub and my Mac.
 * **The Lesson:** Git showed me both versions using `<<<<<<<` and `>>>>>>>` markers. 
 * **The Resolution:** I acted as the judge, picked the best version, deleted the markers, and committed the "fix." I am no longer afraid of merge conflicts!
+
+"I learned that git pull isn't just a download; it's an integration. I chose pull.rebase false, which uses the Merge strategy. This creates a 'handshake' commit that clearly shows when my local work and the cloud work were combined. It keeps my history honest and easy to follow!"
 ---
 
 ## 🛠 My Cheat Sheet (The Lessons)
