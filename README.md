@@ -25,6 +25,11 @@ I realized that `readme.txt` looked boring. To make this page look professional,
 * Use \`backticks\` for `code commands`.
 * I also learned that renaming a file (from `.txt` to `.md`) requires a `git add .` to tell GitHub the old file is gone and the new one is here!
 
+### Phase 5: The "Boss Battle" (Merge Conflicts)
+I intentionally broke my project to learn how to fix it. 
+* **The Conflict:** I edited the same line on GitHub and my Mac.
+* **The Lesson:** Git showed me both versions using `<<<<<<<` and `>>>>>>>` markers. 
+* **The Resolution:** I acted as the judge, picked the best version, deleted the markers, and committed the "fix." I am no longer afraid of merge conflicts!
 ---
 
 ## 🛠 My Cheat Sheet (The Lessons)
