@@ -30,6 +30,7 @@ I intentionally broke my project to learn how to fix it.
 * **The Conflict:** I edited the same line on GitHub and my Mac.
 * **The Lesson:** Git showed me both versions using `<<<<<<<` and `>>>>>>>` markers. 
 * **The Resolution:** I acted as the judge, picked the best version, deleted the markers, and committed the "fix." I am no longer afraid of merge conflicts!
+---
 
 
 
@@ -41,8 +42,6 @@ I learned how to travel backward if I make a mistake:
   *(Completely erases the last commit and all changes—use with caution!)*
 * **File Restore:** `git restore <file>` 
   *(Discards changes in a file and puts it back to how it was at the last save).*
-
----
 
 ## 🛠 My Cheat Sheet (The Lessons)
 
